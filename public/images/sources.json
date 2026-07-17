@@ -1,0 +1,18 @@
+{
+  "generated": "2026-07-17T00:00:00.000Z",
+  "site": "pontadelgadashoreexcursions.com",
+  "files": [
+    "hero-home.jpg",
+    "og-default.jpg",
+    "cruise-port.jpg",
+    "historic.jpg",
+    "food.jpg",
+    "coast.jpg",
+    "compare.jpg",
+    "family.jpg",
+    "walking.jpg",
+    "photography.jpg",
+    "private.jpg"
+  ],
+  "note": "Master images sourced from Wikimedia Commons (CC-licensed) and project image sources. See scripts/optimize-images.mjs."
+}

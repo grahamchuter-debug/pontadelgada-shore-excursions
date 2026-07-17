@@ -1,0 +1,8 @@
+# Path aliases → canonical routes (Workers Static Assets: relative URLs only).
+# Host-level www/http → apex redirects are handled in Cloudflare Redirect Rules / Always Use HTTPS.
+/cruise-port-guide /ponta-delgada-cruise-port/ 301
+/cruise-port-guide/ /ponta-delgada-cruise-port/ 301
+/ship-schedules /ponta-delgada-cruise-ship-schedule/ 301
+/ship-schedules/ /ponta-delgada-cruise-ship-schedule/ 301
+/ship-schedules/ponta-delgada /ponta-delgada-cruise-ship-schedule/ 301
+/ship-schedules/ponta-delgada/ /ponta-delgada-cruise-ship-schedule/ 301
