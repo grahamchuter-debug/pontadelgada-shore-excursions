@@ -1,0 +1,222 @@
+{
+  "port": "ponta-delgada",
+  "year": 2028,
+  "wave": "final-estate-lock",
+  "filterDecision": "HOLD",
+  "filterReason": "validated 3 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+  "total": 23,
+  "path": "HOLD",
+  "calls": [
+    {
+      "date": "2028-01-09",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-11",
+      "ship": "Ambience",
+      "cruiseLine": "Ambassador Cruise Line",
+      "arrival": "08:00",
+      "departure": "14:00",
+      "timeInPort": "6h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-14",
+      "ship": "Queen Elizabeth",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-15",
+      "ship": "Queen Anne",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-17",
+      "ship": "AIDAmar",
+      "cruiseLine": "AIDA",
+      "arrival": "09:00",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "overnight/next-day timing"
+    },
+    {
+      "date": "2028-02-12",
+      "ship": "Ambition",
+      "cruiseLine": "Ambassador Cruise Line",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-23",
+      "ship": "Ambition",
+      "cruiseLine": "Ambassador Cruise Line",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-10",
+      "ship": "Enchanted Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-16",
+      "ship": "Amera",
+      "cruiseLine": "Phoenix Reisen",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-18",
+      "ship": "Oceania Sirena",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "14:00",
+      "departure": "22:00",
+      "timeInPort": "8h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-03-20",
+      "ship": "Sky Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-23",
+      "ship": "AIDAbella",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-24",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-27",
+      "ship": "Mein Schiff 7",
+      "cruiseLine": "TUI Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-30",
+      "ship": "Wind Surf",
+      "cruiseLine": "Windstar Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-31",
+      "ship": "AIDAsol",
+      "cruiseLine": "AIDA",
+      "arrival": "11:00",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "overnight/next-day timing"
+    },
+    {
+      "date": "2028-06-01",
+      "ship": "Crystal Symphony",
+      "cruiseLine": "Crystal Cruises",
+      "arrival": "07:00",
+      "departure": "14:00",
+      "timeInPort": "7h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-13",
+      "ship": "Amadea",
+      "cruiseLine": "Phoenix Reisen",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-11",
+      "ship": "Oceania Aurelia",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-18",
+      "ship": "Crystal Grace",
+      "cruiseLine": "Crystal Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-26",
+      "ship": "Oceania Aurelia",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-10-09",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-23",
+      "ship": "Crystal Serenity",
+      "cruiseLine": "Crystal Cruises",
+      "arrival": "07:00",
+      "departure": "15:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    }
+  ]
+}
